@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open_web_view">Open Web View</string>
+    <string name="logo1" />
+    <string name="logo2" />
+    <string name="logo3" />
+    <string name="logo4" />
+    <string name="logo5" />
+    <string name="logo6" />
+</resources>
